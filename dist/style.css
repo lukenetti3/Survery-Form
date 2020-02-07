@@ -1,0 +1,70 @@
+.page {
+  background: #F0C27B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4B1248, #F0C27B);   /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4B1248, #F0C27B); /* W3C,   IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding-bottom: 100px;
+}
+
+.heading {
+  text-align: center;
+}
+
+h1, p, label {
+  color: white;
+}
+
+.content {
+  padding-top: 20px;
+}
+
+input {
+  width: 35rem;
+  height: 32px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 4px;
+}
+
+.radio-btn {
+  padding-top: 20px;
+}
+
+.form-check-input {
+  margin-right: 25px;
+  height: 20px;
+}
+
+.form-check {
+  padding-bottom: 5px;
+}
+
+label {
+  letter-spacing: 1px;
+}
+
+select {
+  width: 35rem;
+  height: 32px;
+}
+
+.checkbox {
+  padding-top: 20px;
+}
+
+.comments {
+  padding-top: 20px;
+}
+
+#comments {
+  border: none;
+  border-radius: 3px;
+}
+
+#description {
+  font-style: italic;
+}
+
+button {
+  margin-top: 20px;  
+}
